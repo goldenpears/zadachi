@@ -4,11 +4,7 @@ This repo is about to contain implementation of some algorithms, puzzles and mat
 
 ## list of things
 - [x] factorial
-- [ ] fractals
 - [x] Fibonacci sequence
 - [x] prime numbers
 - [ ] quine
 - [ ] Sierpinski triangle
-
-## contribution
-are welcome! 
