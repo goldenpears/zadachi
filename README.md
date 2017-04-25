@@ -7,7 +7,7 @@ This repo is about to contain implementation of some algorithms, puzzles and mat
 - [x] factorial
 - [x] Fibonacci sequence
 - [x] prime numbers
-- [ ] quine
+- [x] quine
 - [ ] Sierpinski triangle
 
 **a bit harder**
