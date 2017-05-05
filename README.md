@@ -18,4 +18,9 @@ This repo is about to contain implementation of some algorithms, puzzles and mat
 - [ ] The Koch Curve as L-system
 - [ ] The Mandelbrot Set
 - [ ] prime numbers with divider principles 
-- [ ] shorter quine
+- [ ] shorter(more interesting?) quine
+- [ ] find two primes which in sum give you preset number(argument)
+
+## some gold
+- [wiki/L-system](https://en.wikipedia.org/wiki/L-system)
+- [ruby implementation of finding prime](https://github.com/ruby/ruby/blob/6b35c34c6808f24f6ac8f03d99620a6406676b0e/lib/prime.rb#L34)
