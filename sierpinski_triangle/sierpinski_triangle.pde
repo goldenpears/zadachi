@@ -1,11 +1,13 @@
 void setup() {
   size(800, 800);
+  background(255);
+  sierpinski();
 }
 
 void draw() {
-  background(255);
-  fill(0);
+  noLoop();
 }
 
-void mousePressed() {
+void sierpinski() {
+  triangle(30, 75, 58, 20, 86, 75);
 }
